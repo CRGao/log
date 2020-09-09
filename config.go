@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"github.com/op/go-logging"
-	"github.com/poolqa/log/rotator"
+	"github.com/CRGao/log/rotator"
 	"os"
 	"strings"
 )

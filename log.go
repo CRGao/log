@@ -3,7 +3,7 @@ package log
 import (
 	"fmt"
 	"github.com/op/go-logging"
-	"github.com/poolqa/log/rotator"
+	"github.com/CRGao/log/rotator"
 	"log"
 	"os"
 	"path/filepath"
